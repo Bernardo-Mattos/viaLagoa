@@ -1,0 +1,29 @@
+.containerHeader {
+  display: flex;
+  width: 100%;
+  flex-direction: row !important;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #C19973;
+}
+.logoImg{
+  width: 200px !important ;
+}
+.nav {
+  width: 50%;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.nav a {
+  text-decoration: none !important;
+  font-size: 24px;
+  color: #fff;
+  transition: all 0.3s; /* Adiciona uma transição suave para a mudança de propriedades */
+  position: relative; /* Define a posição relativa para que a borda seja posicionada corretamente */
+}
+
+.nav a:hover {
+  border-bottom: 2px solid #fff; /* Adiciona uma borda branca na parte inferior no hover */
+  transform: scale(1.1); /* Aumenta a escala em 10% no hover */
+}
