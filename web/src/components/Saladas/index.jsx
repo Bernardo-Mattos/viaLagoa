@@ -18,7 +18,7 @@ export default function Saladas() {
       <Card
       image={'https://media.istockphoto.com/id/500119141/photo/healthy-hearty-cobb-salad.jpg?s=612x612&w=0&k=20&c=28Q_RKSRBvlrJD8XwINIc-vmMkQguq12o6QkWWscjA8='}
       preco="R$20,00 Cobb Salad"
-      desc="A Chicken Club Salad é uma salada que combina ingredientes como frango grelhado, bacon, alface, tomate, queijo cheddar, ovos e opcionalmente abacate, croutons e molho. É uma refeição equilibrada e saborosa, ideal para quem procura uma salada completa e satisfatória."
+      desc="A Cobb Salad é uma salada composta que combina diversos ingredientes frescos e saborosos, criando uma refeição rica em sabores e texturas. Este prato é conhecido pela sua apresentação vibrante e pela variedade de ingredientes que o compõem."
       />
     </div>
   )
