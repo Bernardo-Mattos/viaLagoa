@@ -1,0 +1,9 @@
+.containerFamosos {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.imgFamosos{
+  width:100%;
+}
