@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../card";
+import Card from "../principais/components/card";
 import "./styles.css";
 
 export default function Bebidas() {
